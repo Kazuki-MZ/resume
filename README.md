@@ -11,8 +11,6 @@
 ## Data
 
 - [GitHub Pages](https://kawamataryo.github.io/resume/)  
-- [PDF](https://github.com/kawamataryo/resume/releases)  
-- [File](https://github.com/kawamataryo/resume/blob/master/docs/index.md)  
 ## Features
 
 ### 💅 Lint text
