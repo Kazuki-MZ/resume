@@ -1,4 +1,4 @@
-# kawamataryo's resume
+# kazuki's resume
 
 
 [![textlint](https://img.shields.io/github/actions/workflow/status/kawamataryo/resume/lint-text.yml?label=textlint&logo=github&color=yellow)](https://github.com/kawamataryo/resume/actions?query=workflow%3A%22lint+text%22)
