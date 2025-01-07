@@ -33,7 +33,7 @@ layout: doc
 - **プロジェクト概要：**
   - 録音した医療現場の音声データを、AI（ChatGPT API）を活用してカルテへ自動変換するWebサービスの開発
 - **プロジェクト規模：**
-  - 3人チーム
+  - 3名
 - **使用技術：**
   - PHP, Laravel, ReactNative, AWS, TypeScript, Docker, teraterm, GitHub Actions
 - **担当した役割：**
@@ -49,7 +49,7 @@ layout: doc
   - プロンプトのリクエストとレスポンスのログをJSONで保存
   - その他新規機能実装
 
-:::details 2023/02〜現在
+:::details 2024/02〜現在
 
 **新卒採用のWebサービスの開発と保守、運用。**
 
@@ -68,7 +68,7 @@ layout: doc
 
 :::
 
-:::details 2018/02〜2019/03 [エムスリー株式会社](https://corporate.m3.com/)
+:::details 2023/12〜2024/06
 
 **小売店向けのリファラル採用SaaS開発**
 
